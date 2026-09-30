@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chronoring.github.io/chronoring/sitemap.xml
